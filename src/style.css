@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.contenedor {
+    background-color: white;
+    min-height: 100vh;
+    width: 500px;
+    margin: auto;
+}
