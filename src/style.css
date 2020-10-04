@@ -64,8 +64,18 @@ body {
   margin-bottom: 10px;
   display: grid;
   grid-template-columns: 100px auto;
+  column-gap: 10px;
 }
 .titulo-pelicula img {
-  height: 100px;
   margin-right: 10px;
+  width: 100px;
+}
+.info {
+  padding: 5px;
+  border: none;
+  background-color: rgb(2, 144, 144);
+  color: white;
+  border-radius: 5px;
+  text-transform: uppercase;
+  margin-top: 5px;
 }
